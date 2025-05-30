@@ -1,0 +1,19 @@
+
+docker build -t rest-apis-flask .
+
+docker run -p 5005:5000 rest-apis-flask
+
+docker compose up
+
+
+docker run -dp 5000:5000 -w /app -v "$(pwd):/app" flask-smorest-api
+
+# What is JSON?
+# JSON is just a (usually) string whose contents follow a specific format
+# So at its core, you've got: Strings, Numbers, Booleans, Lists. Objects (akin to dictionaries in Python)
+# Note that objects are not ordered, so the keys could come back in any order. This is not a problem!
+# At the top level of a piece of JSON you can have an object or a list. So this is also valid JSON
+# When we return a Python dictionary in a Flask route, Flask automatically turns it into JSON for us, so we don't have to.
+# Remember that "turning it into JSON" means two things: 
+# 1. Change Python keywords and values so they match the JSON standard (eg True to true)
+# 2. Turn the whole thing into a single string that our API can return.

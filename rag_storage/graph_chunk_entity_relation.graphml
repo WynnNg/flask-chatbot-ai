@@ -1,0 +1,1693 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d11" for="edge" attr.name="created_at" attr.type="long" />
+  <key id="d10" for="edge" attr.name="file_path" attr.type="string" />
+  <key id="d9" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d8" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d7" for="edge" attr.name="description" attr.type="string" />
+  <key id="d6" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d5" for="node" attr.name="created_at" attr.type="long" />
+  <key id="d4" for="node" attr.name="file_path" attr.type="string" />
+  <key id="d3" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d2" for="node" attr.name="description" attr.type="string" />
+  <key id="d1" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="BOTSLAB VIỆT NAM">
+      <data key="d0">BOTSLAB VIỆT NAM</data>
+      <data key="d1">organization</data>
+      <data key="d2">BOTSLAB VIỆT NAM is a pioneering technology brand under the 360 Group, known for advanced security and smart device solutions, specializing in dash cameras with modern AI and computer vision technology.</data>
+      <data key="d3">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596533</data>
+    </node>
+    <node id="Camera Hành Trình HK30 PRO">
+      <data key="d0">Camera Hành Trình HK30 PRO</data>
+      <data key="d1">category</data>
+      <data key="d2">Camera Hành Trình HK30 PRO is a product offered by BOTSLAB, featuring enhanced specifications for recording travel experiences.&lt;SEP&gt;Camera Hành Trình HK30 PRO is an alternative name for the Camera Hành Trình BOTSLAB HK30 PRO, utilized in smart surveillance applications.</data>
+      <data key="d3">chunk-91b68451b44fd8602c0fdbaf3015c288&lt;SEP&gt;chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596635</data>
+    </node>
+    <node id="Camera Hành Trình BOTSLAB G300H PRO">
+      <data key="d0">Camera Hành Trình BOTSLAB G300H PRO</data>
+      <data key="d1">category</data>
+      <data key="d2">Camera Hành Trình BOTSLAB G300H PRO is a dash camera product by BOTSLAB designed for safe driving records.&lt;SEP&gt;Camera Hành Trình BOTSLAB G300H PRO is a model of dashboard camera known for its high-definition recording capabilities, advanced features including G-Sensor technology, and night vision performance.&lt;SEP&gt;Camera Hành Trình BOTSLAB G300H PRO is an advanced car recording device with 3K resolution, integrated GPS for accurate navigation, and smart AI safety features.</data>
+      <data key="d3">chunk-91b68451b44fd8602c0fdbaf3015c288&lt;SEP&gt;chunk-64c601aacc879ff2ed27852c510ca75f&lt;SEP&gt;chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="Camera Hành Trình BOTSLAB G500H PRO">
+      <data key="d0">Camera Hành Trình BOTSLAB G500H PRO</data>
+      <data key="d1">category</data>
+      <data key="d2">Camera Hành Trình BOTSLAB G500H PRO is a dash camera designed to provide high-resolution video recording with features like GPS integration, G-Sensor, and advanced driver-assistance systems (ADAS).&lt;SEP&gt;Camera Hành Trình BOTSLAB G500H PRO is among the product line by BOTSLAB, equipped for high-quality travel recording.</data>
+      <data key="d3">chunk-91b68451b44fd8602c0fdbaf3015c288&lt;SEP&gt;chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Camera Hành Trình BOTSLAB G980H PRO">
+      <data key="d0">Camera Hành Trình BOTSLAB G980H PRO</data>
+      <data key="d1">category</data>
+      <data key="d2">Camera Hành Trình BOTSLAB G980H PRO is a high-definition dashboard camera featuring 4K resolution for the front camera and 2K for the rear camera, integrated with advanced driver assistance system (ADAS) capabilities.&lt;SEP&gt;Camera Hành Trình BOTSLAB G980H PRO is a high-performance dash camera known for its superior features and trust among users worldwide.</data>
+      <data key="d3">chunk-91b68451b44fd8602c0fdbaf3015c288&lt;SEP&gt;chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596931</data>
+    </node>
+    <node id="360 Group">
+      <data key="d0">360 Group</data>
+      <data key="d1">organization</data>
+      <data key="d2">360 Group is a leading entity in the field of security and smart devices, providing innovative solutions in technology.</data>
+      <data key="d3">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596533</data>
+    </node>
+    <node id="BOTSLAB">
+      <data key="d0">BOTSLAB</data>
+      <data key="d1">organization</data>
+      <data key="d2">BOTSLAB is a pioneering technology brand based in Vietnam, specializing in the distribution of camera products and advanced security and smart devices. The company is recognized for its emphasis on high-quality dash cameras and is committed to customer satisfaction by offering an 18-month warranty and comprehensive warranty and return services for its products.
+
+In addition to its focus on distributing camera products, BOTSLAB is also dedicated to research and innovation, with a mission to create solutions that enhance safety and convenience in transportation. The organization is involved in the development of various applications and technologies, including the functionalities of the HK30 PRO camera.
+
+Furthermore, BOTSLAB is responsible for developing the Camera Hành Trình BOTSLAB HK30 PRO, which provides smart solutions for surveillance and monitoring, reinforcing its position as a leader in the technology sector. Overall, BOTSLAB is committed to delivering high-quality products and ensuring a supportive experience for its customers.&lt;SEP&gt;BOTSLAB is the organization that manufactures the Camera Hành Trình BOTSLAB G300H PRO, providing innovative technology for vehicle safety.&lt;SEP&gt;BOTSLAB is the manufacturer of the Camera Hành Trình BOTSLAB G500H PRO, focusing on high-quality automotive electronics.&lt;SEP&gt;BOTSLAB is the company that provides software applications for managing camera features and video playback.&lt;SEP&gt;BOTSLAB is the manufacturer of the G980H PRO dashboard camera, focusing on creating high-quality electronic and surveillance products.</data>
+      <data key="d3">chunk-64c601aacc879ff2ed27852c510ca75f&lt;SEP&gt;chunk-dc66c6d81c21fe66521ead93c6d1b542&lt;SEP&gt;chunk-201350bc86ea6c05d23f5526093df1df&lt;SEP&gt;chunk-e97321ed3cbd7b43cb8e07dc8d032f42&lt;SEP&gt;chunk-9b3c7228960e4b2dcfbb5cee84f1c02b&lt;SEP&gt;chunk-91b68451b44fd8602c0fdbaf3015c288&lt;SEP&gt;chunk-08cfe923087c38fb9012e2d072e403b5&lt;SEP&gt;chunk-632ef7423741f7379d12ff288e898709&lt;SEP&gt;chunk-ed42505c08de87b070e7ec92c9b8085b&lt;SEP&gt;chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596931</data>
+    </node>
+    <node id="Trí Tuệ Nhân Tạo">
+      <data key="d0">Trí Tuệ Nhân Tạo</data>
+      <data key="d1">category</data>
+      <data key="d2">Trí Tuệ Nhân Tạo, or Artificial Intelligence, is a technology integrated into BOTSLAB products to enhance functionalities and user experience.</data>
+      <data key="d3">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596533</data>
+    </node>
+    <node id="GPS">
+      <data key="d0">GPS</data>
+      <data key="d1">technology</data>
+      <data key="d2">GPS, or Global Positioning System, is a technology that provides accurate tracking of location and speed, essential for navigation. It is widely recognized for its ability to support route tracking and precise positioning. This technology has been integrated into BOTSLAB's cameras, specifically the Camera Hành Trình BOTSLAB G500H PRO, to enhance functionality by accurately recording travel routes and improving driving safety. The integration of GPS in these devices allows for real-time navigation and location tracking, which are critical for their operational efficiency.</data>
+      <data key="d3">chunk-cb5c1468a96b254256bf596badc87fc7&lt;SEP&gt;chunk-64c601aacc879ff2ed27852c510ca75f&lt;SEP&gt;chunk-a62029458e7dc373dec1c4f086dacc01&lt;SEP&gt;chunk-91b68451b44fd8602c0fdbaf3015c288&lt;SEP&gt;chunk-632ef7423741f7379d12ff288e898709&lt;SEP&gt;chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596933</data>
+    </node>
+    <node id="ADAS">
+      <data key="d0">ADAS</data>
+      <data key="d1">category</data>
+      <data key="d2">ADAS refers to Advanced Driver Assistance Systems, which are technology features that enhance vehicle safety, including collision detection and alerts.&lt;SEP&gt;ADAS, or Advanced Driver-Assistance Systems, refers to safety features integrated into BOTSLAB's products to assist drivers in various scenarios.&lt;SEP&gt;Advanced Driver Assistance Systems (ADAS) are included to enhance driving safety and assist the driver with various features.&lt;SEP&gt;ADAS stands for Advanced Driver Assistance Systems, which includes features for enhancing vehicle safety and automated driving.&lt;SEP&gt;ADAS, or Advanced Driver Assistance System, is a technology that enhances vehicle safety and driving experience through features such as collision detection and lane departure warning.</data>
+      <data key="d3">chunk-201350bc86ea6c05d23f5526093df1df&lt;SEP&gt;chunk-a62029458e7dc373dec1c4f086dacc01&lt;SEP&gt;chunk-91b68451b44fd8602c0fdbaf3015c288&lt;SEP&gt;chunk-632ef7423741f7379d12ff288e898709&lt;SEP&gt;chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596931</data>
+    </node>
+    <node id="Độ Phân Giải 4K">
+      <data key="d0">Độ Phân Giải 4K</data>
+      <data key="d1">category</data>
+      <data key="d2">Độ Phân Giải 4K refers to the high-resolution video quality provided by BOTSLAB cameras, ensuring detailed recordings.</data>
+      <data key="d3">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596533</data>
+    </node>
+    <node id="170° Góc Quay">
+      <data key="d0">170° Góc Quay</data>
+      <data key="d1">category</data>
+      <data key="d2">170° Góc Quay refers to the wide-angle lens feature of BOTSLAB cameras, allowing comprehensive front views while driving.</data>
+      <data key="d3">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596533</data>
+    </node>
+    <node id="Transportation Safety">
+      <data key="d0">Transportation Safety</data>
+      <data key="d1">category</data>
+      <data key="d2">Transportation Safety refers to the overarching theme of safety and convenience in transportation as pursued by BOTSLAB's mission.</data>
+      <data key="d3">chunk-e97321ed3cbd7b43cb8e07dc8d032f42</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596533</data>
+    </node>
+    <node id="an toàn">
+      <data key="d0">an toàn</data>
+      <data key="d1">category</data>
+      <data key="d2">An toàn is a concept referring to safety, which is a key focus in BOTSLAB's mission to enhance transportation.</data>
+      <data key="d3">chunk-e97321ed3cbd7b43cb8e07dc8d032f42</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596533</data>
+    </node>
+    <node id="tiện nghi">
+      <data key="d0">tiện nghi</data>
+      <data key="d1">category</data>
+      <data key="d2">Tiện nghi refers to convenience, which is emphasized in the products designed by BOTSLAB to improve transportation experiences.</data>
+      <data key="d3">chunk-e97321ed3cbd7b43cb8e07dc8d032f42</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596533</data>
+    </node>
+    <node id="chuyến đi">
+      <data key="d0">chuyến đi</data>
+      <data key="d1">category</data>
+      <data key="d2">Chuyến đi refers to journeys or trips, which are impacted by the innovations introduced by BOTSLAB for a safer and more enjoyable experience.</data>
+      <data key="d3">chunk-e97321ed3cbd7b43cb8e07dc8d032f42</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596533</data>
+    </node>
+    <node id="thiết bị">
+      <data key="d0">thiết bị</data>
+      <data key="d1">category</data>
+      <data key="d2">Thiết bị refers to devices, which are part of the technology developed by BOTSLAB to enhance user experience in transportation.</data>
+      <data key="d3">chunk-e97321ed3cbd7b43cb8e07dc8d032f42</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596533</data>
+    </node>
+    <node id="Vietnam">
+      <data key="d0">Vietnam</data>
+      <data key="d1">geo</data>
+      <data key="d2">Vietnam is the country where BOTSLAB distributes its camera products and applies its warranty policy.</data>
+      <data key="d3">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Camera Products">
+      <data key="d0">Camera Products</data>
+      <data key="d1">category</data>
+      <data key="d2">Camera Products are the products covered under the warranty policy of BOTSLAB, requiring specific conditions for warranty and return.</data>
+      <data key="d3">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Warranty Policy">
+      <data key="d0">Warranty Policy</data>
+      <data key="d1">category</data>
+      <data key="d2">Warranty Policy defines the rules and conditions under which BOTSLAB's camera products can be returned or exchanged.</data>
+      <data key="d3">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Return Conditions">
+      <data key="d0">Return Conditions</data>
+      <data key="d1">category</data>
+      <data key="d2">Return Conditions outline specific requirements for customers wishing to return or exchange BOTSLAB products, including product condition and timing.</data>
+      <data key="d3">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Faulty Products">
+      <data key="d0">Faulty Products</data>
+      <data key="d1">category</data>
+      <data key="d2">Faulty Products are items that may be eligible for return or exchange under BOTSLAB's warranty policy in case of manufacturer defects.</data>
+      <data key="d3">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Non-Warranty Conditions">
+      <data key="d0">Non-Warranty Conditions</data>
+      <data key="d1">category</data>
+      <data key="d2">Non-Warranty Conditions refer to scenarios where BOTSLAB does not provide warranty coverage or support for product returns.</data>
+      <data key="d3">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Customer Support">
+      <data key="d0">Customer Support</data>
+      <data key="d1">organization</data>
+      <data key="d2">Customer Support is the service offered by BOTSLAB to assist customers with warranty claims and product returns.</data>
+      <data key="d3">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Distributor or Repair Center">
+      <data key="d0">Distributor or Repair Center</data>
+      <data key="d1">organization</data>
+      <data key="d2">Distributor or Repair Center is the entity customers should contact for warranty service or product exchanges with BOTSLAB.</data>
+      <data key="d3">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Customer">
+      <data key="d0">Customer</data>
+      <data key="d1">person</data>
+      <data key="d2">Customer refers to individuals who may seek warranty or return services offered by BOTSLAB for personal reasons.</data>
+      <data key="d3">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Warranty and Return Process">
+      <data key="d0">Warranty and Return Process</data>
+      <data key="d1">category</data>
+      <data key="d2">The Warranty and Return Process outlines how customers can contact authorized dealers or service centers for product issues and the steps they must follow.</data>
+      <data key="d3">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Technical Staff">
+      <data key="d0">Technical Staff</data>
+      <data key="d1">person</data>
+      <data key="d2">Technical staff are employees at BOTSLAB responsible for inspecting products and confirming the conditions for warranty or returns.</data>
+      <data key="d3">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Authorized Dealers">
+      <data key="d0">Authorized Dealers</data>
+      <data key="d1">organization</data>
+      <data key="d2">Authorized Dealers are partners of BOTSLAB who assist in providing warranty and return services across the country.</data>
+      <data key="d3">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Customer Support Hotline">
+      <data key="d0">Customer Support Hotline</data>
+      <data key="d1">event</data>
+      <data key="d2">Customer Support Hotline is a service available to assist customers in need of warranty and return support with a specific contact number.</data>
+      <data key="d3">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="www.botslabvietnam.com.vn">
+      <data key="d0">www.botslabvietnam.com.vn</data>
+      <data key="d1">organization</data>
+      <data key="d2">The official website of BOTSLAB where customers can find information about services, products, and support.</data>
+      <data key="d3">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Khách Hàng">
+      <data key="d0">Khách Hàng</data>
+      <data key="d1">person</data>
+      <data key="d2">Khách hàng refers to customers who seek warranty or return services for personal reasons, engaging with the company's offerings.</data>
+      <data key="d3">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Quy Trình Bảo Hành &amp; Đổi Trả">
+      <data key="d0">Quy Trình Bảo Hành &amp; Đổi Trả</data>
+      <data key="d1">category</data>
+      <data key="d2">Quy Trình Bảo Hành &amp; Đổi Trả outlines how customers can contact dealers or service centers for issues and the steps involved in the process.</data>
+      <data key="d3">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Nhân Viên Kỹ Thuật">
+      <data key="d0">Nhân Viên Kỹ Thuật</data>
+      <data key="d1">person</data>
+      <data key="d2">Nhân viên kỹ thuật are employees at BOTSLAB responsible for inspecting and verifying the conditions for warranty or returns.</data>
+      <data key="d3">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Đại Lý Ủy Quyền">
+      <data key="d0">Đại Lý Ủy Quyền</data>
+      <data key="d1">organization</data>
+      <data key="d2">Đại lý ủy quyền are partners of BOTSLAB that assist in providing warranty and return services across the country.</data>
+      <data key="d3">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Hotline Hỗ Trợ">
+      <data key="d0">Hotline Hỗ Trợ</data>
+      <data key="d1">event</data>
+      <data key="d2">Hotline hỗ trợ is a dedicated service line for customers needing assistance with warranty and return inquiries, providing direct support.</data>
+      <data key="d3">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Thời Gian Xử Lý">
+      <data key="d0">Thời Gian Xử Lý</data>
+      <data key="d1">category</data>
+      <data key="d2">Thời gian xử lý refers to the duration it typically takes for warranty processing and return requests to be completed.</data>
+      <data key="d3">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596576</data>
+    </node>
+    <node id="Camera Hành Trình BOTSLAB HK30 PRO">
+      <data key="d0">Camera Hành Trình BOTSLAB HK30 PRO</data>
+      <data key="d1">category</data>
+      <data key="d2">Camera Hành Trình BOTSLAB HK30 PRO is a smart surveillance solution with excellent image quality, featuring 2K resolution and a wide 140° field of view for comprehensive monitoring.</data>
+      <data key="d3">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596623</data>
+    </node>
+    <node id="Camera Hành Trình hk30 pro">
+      <data key="d0">Camera Hành Trình hk30 pro</data>
+      <data key="d1">category</data>
+      <data key="d2">Camera Hành Trình hk30 pro is a variant of the Camera Hành Trình BOTSLAB HK30 PRO, designed for quality monitoring of events and journeys.</data>
+      <data key="d3">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596635</data>
+    </node>
+    <node id="Camera Hành Trình hk30">
+      <data key="d0">Camera Hành Trình hk30</data>
+      <data key="d1">category</data>
+      <data key="d2">Camera Hành Trình hk30 refers to different versions of the BOTSLAB camera series aimed at providing surveillance and monitoring capabilities.</data>
+      <data key="d3">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596635</data>
+    </node>
+    <node id="HK30 PRO">
+      <data key="d0">HK30 PRO</data>
+      <data key="d1">category</data>
+      <data key="d2">HK30 PRO indicates the specific model of the camera with enhanced features for recording and monitoring journeys.&lt;SEP&gt;HK30 PRO is a type of action camera known for its loop recording feature, allowing continuous video recording without interruption.</data>
+      <data key="d3">chunk-dc66c6d81c21fe66521ead93c6d1b542&lt;SEP&gt;chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596635</data>
+    </node>
+    <node id="HK30">
+      <data key="d0">HK30</data>
+      <data key="d1">category</data>
+      <data key="d2">HK30 represents a general designation for the series of cameras that includes various models and features.</data>
+      <data key="d3">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596635</data>
+    </node>
+    <node id="hk30 pro">
+      <data key="d0">hk30 pro</data>
+      <data key="d1">category</data>
+      <data key="d2">hk30 pro is a simplified name for the HK30 PRO model, often used in discussions of its features.</data>
+      <data key="d3">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596635</data>
+    </node>
+    <node id="hk30">
+      <data key="d0">hk30</data>
+      <data key="d1">category</data>
+      <data key="d2">hk30 is an abbreviation for the series of Camera Hành Trình, which provides various functions for monitoring.</data>
+      <data key="d3">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596635</data>
+    </node>
+    <node id="Smart Surveillance Solution">
+      <data key="d0">Smart Surveillance Solution</data>
+      <data key="d1">category</data>
+      <data key="d2">Smart Surveillance Solution represents the class of technological systems that include devices like the BOTSLAB HK30 PRO for security purposes.</data>
+      <data key="d3">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596635</data>
+    </node>
+    <node id="Loop Recording">
+      <data key="d0">Loop Recording</data>
+      <data key="d1">category</data>
+      <data key="d2">Loop Recording is a significant feature of action cameras, allowing for continuous video recording without interruption, valuable for capturing events without missing important moments.</data>
+      <data key="d3">chunk-dc66c6d81c21fe66521ead93c6d1b542</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596635</data>
+    </node>
+    <node id="Camera Hành Trình">
+      <data key="d0">Camera Hành Trình</data>
+      <data key="d1">category</data>
+      <data key="d2">Camera Hành Trình refers to a category of cameras designed for recording video while driving, commonly known as dash cams.&lt;SEP&gt;Camera Hành Trình refers to a type of action camera designed for recording footage while driving or during active movement, typically used for documenting travel experiences and adventures.</data>
+      <data key="d3">chunk-dc66c6d81c21fe66521ead93c6d1b542&lt;SEP&gt;chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="Thẻ Nhớ">
+      <data key="d0">Thẻ Nhớ</data>
+      <data key="d1">category</data>
+      <data key="d2">Thẻ Nhớ are storage devices used in cameras to store video and image files, critical for the functionality of recording devices, including action cameras.</data>
+      <data key="d3">chunk-dc66c6d81c21fe66521ead93c6d1b542</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596635</data>
+    </node>
+    <node id="G-Sensor">
+      <data key="d0">G-Sensor</data>
+      <data key="d1">equipment</data>
+      <data key="d2">G-Sensor is a safety device integrated in the camera that protects data during impact by automatically locking and saving video recordings.&lt;SEP&gt;G-Sensor is a sensor integrated into the camera that protects important data during collisions by automatically saving footage.&lt;SEP&gt;G-Sensor is a sensor that detects motion and impacts, often used in cameras to protect important video during collisions.</data>
+      <data key="d3">chunk-64c601aacc879ff2ed27852c510ca75f&lt;SEP&gt;chunk-ed42505c08de87b070e7ec92c9b8085b&lt;SEP&gt;chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="ADAS (Advanced Driver Assistance Systems)">
+      <data key="d0">ADAS (Advanced Driver Assistance Systems)</data>
+      <data key="d1">technology</data>
+      <data key="d2">ADAS enhances driving safety by providing features like collision warnings and reminders for vehicles ahead, ensuring peace of mind for drivers.</data>
+      <data key="d3">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="2.890.000đ">
+      <data key="d0">2.890.000đ</data>
+      <data key="d1">event</data>
+      <data key="d2">2.890.000đ is the listing price for the Camera Hành Trình BOTSLAB G300H PRO.</data>
+      <data key="d3">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="Camera Hành Trình G300H PRO">
+      <data key="d0">Camera Hành Trình G300H PRO</data>
+      <data key="d1">category</data>
+      <data key="d2">The Camera Hành Trình G300H PRO is another designation for the camera, highlighting its advanced recording capabilities.</data>
+      <data key="d3">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="Hành Trình An Toàn">
+      <data key="d0">Hành Trình An Toàn</data>
+      <data key="d1">event</data>
+      <data key="d2">Hành Trình An Toàn refers to the safe travel experience promoted by the features of the Camera Hành Trình BOTSLAB G300H PRO.</data>
+      <data key="d3">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="HD Recording">
+      <data key="d0">HD Recording</data>
+      <data key="d1">technology</data>
+      <data key="d2">HD Recording refers to the capability of the camera to capture high-definition video, enhancing clarity and detail.</data>
+      <data key="d3">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="Wi-Fi Connectivity">
+      <data key="d0">Wi-Fi Connectivity</data>
+      <data key="d1">technology</data>
+      <data key="d2">Wi-Fi Connectivity allows the camera to connect to devices, facilitating easy access to recorded footage and enhancing user experience.</data>
+      <data key="d3">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="BOTSLAB G300H PRO">
+      <data key="d0">BOTSLAB G300H PRO</data>
+      <data key="d1">organization</data>
+      <data key="d2">BOTSLAB G300H PRO is a brand/model of a high-definition camera designed for recording, featuring advanced capabilities such as dual-channel recording, intelligent G-Sensor, and support for 128GB MicroSD memory cards.</data>
+      <data key="d3">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="Wi-Fi 2.4GHz">
+      <data key="d0">Wi-Fi 2.4GHz</data>
+      <data key="d1">category</data>
+      <data key="d2">Wi-Fi 2.4GHz is a wireless connectivity technology that enables devices to connect to networks for data transmission.</data>
+      <data key="d3">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="Siêu tụ điện">
+      <data key="d0">Siêu tụ điện</data>
+      <data key="d1">category</data>
+      <data key="d2">Siêu tụ điện refers to supercapacitors, which are energy storage devices known for their durability and rapid charging capabilities, used to power the dashboard camera.</data>
+      <data key="d3">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="DC 5V">
+      <data key="d0">DC 5V</data>
+      <data key="d1">category</data>
+      <data key="d2">DC 5V is a power supply specification required for the operation of the Camera Hành Trình BOTSLAB G300H PRO, indicating the voltage requirement.</data>
+      <data key="d3">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="128GB MicroSD">
+      <data key="d0">128GB MicroSD</data>
+      <data key="d1">category</data>
+      <data key="d2">128GB MicroSD refers to a type of memory card that can be used for storing video and image files on devices such as dash cameras, indicating the maximum supported memory for recording.</data>
+      <data key="d3">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="F1.5 and F1.8 aperture">
+      <data key="d0">F1.5 and F1.8 aperture</data>
+      <data key="d1">category</data>
+      <data key="d2">F1.5 and F1.8 refer to the aperture sizes of the front and rear cameras, respectively, affecting the camera's ability to capture images in low light conditions.</data>
+      <data key="d3">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="2 inch display">
+      <data key="d0">2 inch display</data>
+      <data key="d1">category</data>
+      <data key="d2">2 inch display is a feature of the Camera Hành Trình BOTSLAB G300H PRO, providing a visual interface for easy monitoring and operation of the device.</data>
+      <data key="d3">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596826</data>
+    </node>
+    <node id="Sony Starvis IMX335">
+      <data key="d0">Sony Starvis IMX335</data>
+      <data key="d1">equipment</data>
+      <data key="d2">Sony Starvis IMX335 is a high-performance image sensor used in the camera to capture high-quality images in low-light conditions.</data>
+      <data key="d3">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Micro SD Card">
+      <data key="d0">Micro SD Card</data>
+      <data key="d1">equipment</data>
+      <data key="d2">The Camera Hành Trình BOTSLAB G500H PRO supports Micro SD cards up to 128GB for data storage, allowing for extensive video recordings.</data>
+      <data key="d3">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="3K Resolution">
+      <data key="d0">3K Resolution</data>
+      <data key="d1">category</data>
+      <data key="d2">3K Resolution refers to the capability of the camera to record video at a high resolution of 2592x1944 pixels for detailed images.</data>
+      <data key="d3">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Full HD">
+      <data key="d0">Full HD</data>
+      <data key="d1">category</data>
+      <data key="d2">Full HD refers to the camera's capability to record video at 1920x1080 pixels resolution for clear video quality.</data>
+      <data key="d3">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Camera Lens">
+      <data key="d0">Camera Lens</data>
+      <data key="d1">category</data>
+      <data key="d2">The camera features a lens with specific parameters such as a 140° field of view for the front camera, enabling wide-angle capture.</data>
+      <data key="d3">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Price">
+      <data key="d0">Price</data>
+      <data key="d1">category</data>
+      <data key="d2">The listed price for the Camera Hành Trình BOTSLAB G500H PRO is 3.490.000đ, indicating its market position.</data>
+      <data key="d3">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Hệ thống ADAS">
+      <data key="d0">Hệ thống ADAS</data>
+      <data key="d1">category</data>
+      <data key="d2">Hệ thống ADAS là một công nghệ hỗ trợ lái xe thông minh, cung cấp cảnh báo va chạm và theo dõi an toàn trong quá trình di chuyển.</data>
+      <data key="d3">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Camera trước">
+      <data key="d0">Camera trước</data>
+      <data key="d1">category</data>
+      <data key="d2">Camera trước có góc quay 140°, cho phép quan sát một cách toàn diện phía trước xe.</data>
+      <data key="d3">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Camera sau">
+      <data key="d0">Camera sau</data>
+      <data key="d1">category</data>
+      <data key="d2">Camera sau có góc quay 120°, cung cấp cái nhìn phía sau tốt hơn cho người lái xe.</data>
+      <data key="d3">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Google Maps">
+      <data key="d0">Google Maps</data>
+      <data key="d1">organization</data>
+      <data key="d2">Google Maps là dịch vụ bản đồ trực tuyến, hỗ trợ điều hướng và tìm kiếm địa điểm.</data>
+      <data key="d3">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Wifi">
+      <data key="d0">Wifi</data>
+      <data key="d1">category</data>
+      <data key="d2">Wifi là công nghệ kết nối không dây giúp truyền tải dữ liệu nhanh chóng.</data>
+      <data key="d3">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Bluetooth">
+      <data key="d0">Bluetooth</data>
+      <data key="d1">technology</data>
+      <data key="d2">Bluetooth is a wireless technology standard for exchanging data over short distances, enabling features such as remote control of the camera.&lt;SEP&gt;Bluetooth là công nghệ không dây cho phép truyền tải dữ liệu giữa các thiết bị trong khoảng cách ngắn.</data>
+      <data key="d3">chunk-201350bc86ea6c05d23f5526093df1df&lt;SEP&gt;chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596931</data>
+    </node>
+    <node id="Thông tin trực quan">
+      <data key="d0">Thông tin trực quan</data>
+      <data key="d1">category</data>
+      <data key="d2">Thông tin trực quan là dữ liệu được hiển thị dưới dạng đồ họa hoặc hình ảnh, giúp dễ dàng quan sát và điều khiển.</data>
+      <data key="d3">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Cập nhật OTA">
+      <data key="d0">Cập nhật OTA</data>
+      <data key="d1">category</data>
+      <data key="d2">Cập nhật OTA là quá trình nâng cấp phần mềm qua internet, giúp duy trì hiệu suất tốt cho thiết bị.&lt;SEP&gt;OTA updates refer to over-the-air software updates for maintaining optimal performance of the device.</data>
+      <data key="d3">chunk-cb5c1468a96b254256bf596badc87fc7&lt;SEP&gt;chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596933</data>
+    </node>
+    <node id="Góc quay rộng">
+      <data key="d0">Góc quay rộng</data>
+      <data key="d1">category</data>
+      <data key="d2">Góc quay rộng đề cập đến khả năng của camera để ghi lại hình ảnh với độ bao quát lớn, với camera trước và sau có góc quay lần lượt là 140° và 120°.</data>
+      <data key="d3">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Cảnh báo nguy cơ va chạm">
+      <data key="d0">Cảnh báo nguy cơ va chạm</data>
+      <data key="d1">category</data>
+      <data key="d2">Cảnh báo nguy cơ va chạm là tính năng của hệ thống ADAS, giúp lái xe chủ động nhận diện và tránh va chạm.</data>
+      <data key="d3">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Giám sát xe">
+      <data key="d0">Giám sát xe</data>
+      <data key="d1">category</data>
+      <data key="d2">Giám sát xe là khả năng ghi hình và theo dõi xe ngay cả khi không sử dụng, đảm bảo an toàn cho xe.</data>
+      <data key="d3">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596888</data>
+    </node>
+    <node id="Camera Hành Trình G980H PRO">
+      <data key="d0">Camera Hành Trình G980H PRO</data>
+      <data key="d1">category</data>
+      <data key="d2">Camera Hành Trình G980H PRO is a high-performance dashboard camera with features such as 4K resolution for the front and 2K for the rear camera, designed for capturing detailed images during travel.</data>
+      <data key="d3">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596931</data>
+    </node>
+    <node id="4K Resolution">
+      <data key="d0">4K Resolution</data>
+      <data key="d1">category</data>
+      <data key="d2">4K Resolution refers to a display vehicle or camera capability that provides four times the resolution of 1080p, resulting in extremely clear and detailed images.</data>
+      <data key="d3">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596931</data>
+    </node>
+    <node id="2K Resolution">
+      <data key="d0">2K Resolution</data>
+      <data key="d1">category</data>
+      <data key="d2">2K Resolution offers a high-definition quality that provides greater detail than standard HD, specifically in the context of video recording.</data>
+      <data key="d3">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596931</data>
+    </node>
+    <node id="Sony Starvis IMX415">
+      <data key="d0">Sony Starvis IMX415</data>
+      <data key="d1">technology</data>
+      <data key="d2">Sony Starvis IMX415 is a high-quality image sensor used in cameras designed for superior night and low-light performance.&lt;SEP&gt;The Sony Starvis IMX415 is a high-end image sensor that ensures sharp image quality under various lighting conditions.</data>
+      <data key="d3">chunk-201350bc86ea6c05d23f5526093df1df&lt;SEP&gt;chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596931</data>
+    </node>
+    <node id="MicroSD Card">
+      <data key="d0">MicroSD Card</data>
+      <data key="d1">category</data>
+      <data key="d2">MicroSD Card is a type of removable storage that allows users to expand the storage capacity of devices like the Camera Hành Trình BOTSLAB G980H PRO, supporting up to 256GB.</data>
+      <data key="d3">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596931</data>
+    </node>
+    <node id="WiFi">
+      <data key="d0">WiFi</data>
+      <data key="d1">technology</data>
+      <data key="d2">WiFi is a wireless networking technology that allows devices to connect to the internet or communicate with each other without physical connections.</data>
+      <data key="d3">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596931</data>
+    </node>
+    <node id="Camera">
+      <data key="d0">Camera</data>
+      <data key="d1">category</data>
+      <data key="d2">The camera is a device that captures high-quality images and videos, including advanced features such as 4K resolution and various sensors for safety and performance.</data>
+      <data key="d3">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596931</data>
+    </node>
+    <node id="Chất lượng hình ảnh">
+      <data key="d0">Chất lượng hình ảnh</data>
+      <data key="d1">category</data>
+      <data key="d2">Chất lượng hình ảnh refers to the quality of images captured by cameras, emphasizing clarity and detail.</data>
+      <data key="d3">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596933</data>
+    </node>
+    <node id="Camera trước 4K">
+      <data key="d0">Camera trước 4K</data>
+      <data key="d1">category</data>
+      <data key="d2">The Camera trước 4K captures images at a resolution of 3840x2160 pixels, providing high-quality front-facing video and images.</data>
+      <data key="d3">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596933</data>
+    </node>
+    <node id="Camera sau 2K">
+      <data key="d0">Camera sau 2K</data>
+      <data key="d1">category</data>
+      <data key="d2">The Camera sau 2K records video at a resolution of 2304x1296 pixels, allowing for high-quality rear-facing footage.</data>
+      <data key="d3">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596933</data>
+    </node>
+    <node id="Cảm biến G-Sensor">
+      <data key="d0">Cảm biến G-Sensor</data>
+      <data key="d1">technology</data>
+      <data key="d2">The G-Sensor is a type of sensor that automatically locks important video data upon detecting a collision.</data>
+      <data key="d3">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596933</data>
+    </node>
+    <node id="Cảnh báo nguy cơ va chạm với người đi bộ">
+      <data key="d0">Cảnh báo nguy cơ va chạm với người đi bộ</data>
+      <data key="d1">category</data>
+      <data key="d2">This feature alerts drivers of potential collisions with pedestrians to enhance safety.</data>
+      <data key="d3">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596933</data>
+    </node>
+    <node id="Cảnh báo va chạm với xe phía trước">
+      <data key="d0">Cảnh báo va chạm với xe phía trước</data>
+      <data key="d1">category</data>
+      <data key="d2">This system warns drivers of possible collisions with vehicles in front of them, promoting defensive driving.</data>
+      <data key="d3">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596933</data>
+    </node>
+    <node id="Cảnh báo lệch làn đường">
+      <data key="d0">Cảnh báo lệch làn đường</data>
+      <data key="d1">category</data>
+      <data key="d2">This feature detects lane drifting and warns the driver, helping to maintain safe driving practices.</data>
+      <data key="d3">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596933</data>
+    </node>
+    <node id="Hệ thống giám sát đỗ xe 24/7">
+      <data key="d0">Hệ thống giám sát đỗ xe 24/7</data>
+      <data key="d1">category</data>
+      <data key="d2">This system monitors parking for 24 hours a day, ensuring vehicle safety even when parked.</data>
+      <data key="d3">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596933</data>
+    </node>
+    <node id="Wi-Fi và Bluetooth">
+      <data key="d0">Wi-Fi và Bluetooth</data>
+      <data key="d1">technology</data>
+      <data key="d2">Wi-Fi and Bluetooth enable connectivity for real-time video viewing and application management of the camera device.</data>
+      <data key="d3">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596933</data>
+    </node>
+    <node id="Giám sát đỗ xe 24/7">
+      <data key="d0">Giám sát đỗ xe 24/7</data>
+      <data key="d3">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d2">The Giám sát đỗ xe 24/7 feature uses the camera system to monitor and protect parked vehicles.</data>
+      <data key="d1">UNKNOWN</data>
+      <data key="d4">unknown_source</data>
+      <data key="d5">1748596933</data>
+    </node>
+    <edge source="BOTSLAB VIỆT NAM" target="360 Group">
+      <data key="d6">9.0</data>
+      <data key="d7">BOTSLAB VIỆT NAM operates as a technology brand within the larger 360 Group organization, focusing on advanced security devices.</data>
+      <data key="d8">organizational structure,subsidiary relationship</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB VIỆT NAM" target="Camera Hành Trình HK30 PRO">
+      <data key="d6">8.0</data>
+      <data key="d7">BOTSLAB VIỆT NAM offers the Camera Hành Trình HK30 PRO as a part of its product line in dash cameras.</data>
+      <data key="d8">brand portfolio,product offering</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB VIỆT NAM" target="Camera Hành Trình BOTSLAB G300H PRO">
+      <data key="d6">8.0</data>
+      <data key="d7">BOTSLAB VIỆT NAM includes the Camera Hành Trình BOTSLAB G300H PRO in its range of dash cameras, aimed at enhancing road safety.</data>
+      <data key="d8">brand portfolio,product offering</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB VIỆT NAM" target="Camera Hành Trình BOTSLAB G500H PRO">
+      <data key="d6">8.0</data>
+      <data key="d7">Camera Hành Trình BOTSLAB G500H PRO is part of the innovative products by BOTSLAB VIỆT NAM, emphasizing safety features for drivers.</data>
+      <data key="d8">brand portfolio,product offering</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB VIỆT NAM" target="Camera Hành Trình BOTSLAB G980H PRO">
+      <data key="d6">9.0</data>
+      <data key="d7">The Camera Hành Trình BOTSLAB G980H PRO represents the high-quality standard of camera products offered by BOTSLAB VIỆT NAM.</data>
+      <data key="d8">brand quality,product offering</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="Camera Hành Trình HK30 PRO" target="BOTSLAB">
+      <data key="d6">8.0</data>
+      <data key="d7">BOTSLAB offers the Camera Hành Trình HK30 PRO as a leading product in its lineup of dash cameras.</data>
+      <data key="d8">innovation,product offering</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="Camera Hành Trình HK30 PRO" target="Camera Hành Trình BOTSLAB HK30 PRO">
+      <data key="d6">8.0</data>
+      <data key="d7">The Camera Hành Trình HK30 PRO is an alternative designation for the same surveillance technology as the BOTSLAB model.</data>
+      <data key="d8">model variation,product naming</data>
+      <data key="d9">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="Camera Hành Trình HK30 PRO" target="Camera Hành Trình hk30 pro">
+      <data key="d6">7.0</data>
+      <data key="d7">Both Camera Hành Trình HK30 PRO and Camera Hành Trình hk30 pro refer to different marketing names for the same camera category, highlighting variations in naming.</data>
+      <data key="d8">model identification,product branding</data>
+      <data key="d9">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="BOTSLAB">
+      <data key="d6">18.0</data>
+      <data key="d7">BOTSLAB is the manufacturer behind the Camera Hành Trình BOTSLAB G300H PRO, providing innovative vehicular technology.&lt;SEP&gt;The Camera Hành Trình BOTSLAB G300H PRO is part of BOTSLAB's extensive dash camera offerings, designed to enhance driver safety.</data>
+      <data key="d8">innovation,manufacturing,product offering,safety focus</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288&lt;SEP&gt;chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="G-Sensor">
+      <data key="d6">9.0</data>
+      <data key="d7">The G-Sensor is a critical feature of the Camera Hành Trình BOTSLAB G300H PRO that protects data during collisions.</data>
+      <data key="d8">data protection,technology integration</data>
+      <data key="d9">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="ADAS (Advanced Driver Assistance Systems)">
+      <data key="d6">8.0</data>
+      <data key="d7">ADAS features are incorporated into the Camera Hành Trình BOTSLAB G300H PRO to enhance user safety while driving.</data>
+      <data key="d8">safety technology,user support</data>
+      <data key="d9">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="GPS">
+      <data key="d6">9.0</data>
+      <data key="d7">The camera uses GPS technology for navigation and location tracking, which is essential for its recording functionality.</data>
+      <data key="d8">navigation,technology function</data>
+      <data key="d9">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="2.890.000đ">
+      <data key="d6">7.0</data>
+      <data key="d7">The camera is listed for sale at a price of 2.890.000đ, indicating its market value.</data>
+      <data key="d8">market value,pricing</data>
+      <data key="d9">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="Hành Trình An Toàn">
+      <data key="d6">8.0</data>
+      <data key="d7">The features of the camera promote a safe travel experience, aligning it with the concept of Hành Trình An Toàn.</data>
+      <data key="d8">safety,travel experience</data>
+      <data key="d9">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="HD Recording">
+      <data key="d6">8.0</data>
+      <data key="d7">The ability to record in HD enhances the clarity of footage captured by the camera.</data>
+      <data key="d8">recording capability,video quality</data>
+      <data key="d9">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="Wi-Fi Connectivity">
+      <data key="d6">8.0</data>
+      <data key="d7">Wi-Fi Connectivity allows users to easily access and manage recorded footage from their devices.</data>
+      <data key="d8">connectivity,user experience</data>
+      <data key="d9">chunk-64c601aacc879ff2ed27852c510ca75f</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="Siêu tụ điện">
+      <data key="d6">9.0</data>
+      <data key="d7">Camera Hành Trình BOTSLAB G300H PRO utilizes a supercapacitor for reliable power supply during operation, ensuring durability and performance.</data>
+      <data key="d8">energy storage,power supply</data>
+      <data key="d9">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="DC 5V">
+      <data key="d6">10.0</data>
+      <data key="d7">The Camera Hành Trình BOTSLAB G300H PRO operates on a DC 5V power supply, which is crucial for its functionality.</data>
+      <data key="d8">device operation,power specifications</data>
+      <data key="d9">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="128GB MicroSD">
+      <data key="d6">8.0</data>
+      <data key="d7">The camera supports a 128GB MicroSD, allowing for extensive video recording and data storage capabilities.</data>
+      <data key="d8">data storage,recording capacity</data>
+      <data key="d9">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="F1.5 and F1.8 aperture">
+      <data key="d6">9.0</data>
+      <data key="d7">The F1.5 and F1.8 apertures of the camera enhance its ability to capture clear images under various lighting conditions.</data>
+      <data key="d8">camera features,image quality</data>
+      <data key="d9">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="2 inch display">
+      <data key="d6">8.0</data>
+      <data key="d7">The 2 inch display provides a user-friendly interface for monitoring and adjusting settings on the Camera Hành Trình BOTSLAB G300H PRO.</data>
+      <data key="d8">accessibility,user interface</data>
+      <data key="d9">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G300H PRO" target="ADAS">
+      <data key="d6">9.0</data>
+      <data key="d7">The Camera Hành Trình BOTSLAB G300H PRO incorporates ADAS features to improve vehicle safety through automated alerts for obstacles and hazards.</data>
+      <data key="d8">safety technology,vehicle assistance</data>
+      <data key="d9">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G500H PRO" target="BOTSLAB">
+      <data key="d6">17.0</data>
+      <data key="d7">BOTSLAB includes the Camera Hành Trình BOTSLAB G500H PRO within its premium dash camera selections, aimed at secure driving experiences.&lt;SEP&gt;BOTSLAB is the producer of the Camera Hành Trình BOTSLAB G500H PRO, showcasing its brand and technology in automotive cameras.</data>
+      <data key="d8">product feature,product-manufacturing relationship,safety equipment</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288&lt;SEP&gt;chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G500H PRO" target="G-Sensor">
+      <data key="d6">8.0</data>
+      <data key="d7">The G-Sensor feature is a critical component of the Camera Hành Trình BOTSLAB G500H PRO, enhancing its data protection capabilities during collisions.</data>
+      <data key="d8">camera technology,safety feature</data>
+      <data key="d9">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G500H PRO" target="GPS">
+      <data key="d6">8.0</data>
+      <data key="d7">GPS functionality in the Camera Hành Trình BOTSLAB G500H PRO aids in navigation and enhances the camera's practical use.</data>
+      <data key="d8">camera utility,navigation feature</data>
+      <data key="d9">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G500H PRO" target="ADAS">
+      <data key="d6">9.0</data>
+      <data key="d7">The inclusion of ADAS in the Camera Hành Trình BOTSLAB G500H PRO improves driving safety and assists the driver during operation.</data>
+      <data key="d8">driving assistance,safety technology</data>
+      <data key="d9">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G500H PRO" target="Sony Starvis IMX335">
+      <data key="d6">10.0</data>
+      <data key="d7">The use of the Sony Starvis IMX335 sensor in the Camera Hành Trình BOTSLAB G500H PRO enhances its image quality, especially in low light.</data>
+      <data key="d8">image quality enhancement,technology partnership</data>
+      <data key="d9">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G500H PRO" target="Micro SD Card">
+      <data key="d6">8.0</data>
+      <data key="d7">The camera requires a Micro SD Card for storage, enabling video recordings to be saved effectively.</data>
+      <data key="d8">functionality,storage requirement</data>
+      <data key="d9">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G500H PRO" target="3K Resolution">
+      <data key="d6">9.0</data>
+      <data key="d7">The camera is capable of recording in 3K resolution, providing detailed imagery for better visual clarity.</data>
+      <data key="d8">product feature,video quality</data>
+      <data key="d9">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G500H PRO" target="Full HD">
+      <data key="d6">8.0</data>
+      <data key="d7">Full HD recording capability ensures that the video footage captured is of high-definition quality, catering to user needs.</data>
+      <data key="d8">functionality,video quality</data>
+      <data key="d9">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G500H PRO" target="Camera Lens">
+      <data key="d6">7.0</data>
+      <data key="d7">The camera's optical design, including lens specifications such as field of view, impacts the breadth of capture for video recording.</data>
+      <data key="d8">imaging capabilities,optical design</data>
+      <data key="d9">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G500H PRO" target="Price">
+      <data key="d6">9.0</data>
+      <data key="d7">The price of 3.490.000đ reflects the market value and positioning of the Camera Hành Trình BOTSLAB G500H PRO compared to competitors.</data>
+      <data key="d8">market value,pricing strategy</data>
+      <data key="d9">chunk-ed42505c08de87b070e7ec92c9b8085b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G980H PRO" target="BOTSLAB">
+      <data key="d6">18.0</data>
+      <data key="d7">The Camera Hành Trình BOTSLAB G980H PRO is marketed by BOTSLAB as a top-tier dash camera with trusted user approval.&lt;SEP&gt;The Camera Hành Trình BOTSLAB G980H PRO is produced by BOTSLAB, linking the product directly to the organization responsible for its development.</data>
+      <data key="d8">market positioning,product-manufacturer relationship,top-tier product</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288&lt;SEP&gt;chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G980H PRO" target="Độ Phân Giải 4K">
+      <data key="d6">10.0</data>
+      <data key="d7">Camera Hành Trình BOTSLAB G980H PRO offers Độ Phân Giải 4K to provide high-quality footage during travel.</data>
+      <data key="d8">product feature,quality assurance</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB G980H PRO" target="170° Góc Quay">
+      <data key="d6">9.0</data>
+      <data key="d7">The 170° Góc Quay in Camera Hành Trình BOTSLAB G980H PRO allows for a broad view of the driving environment.'"product feature, field of view</data>
+      <data key="d8">9</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="360 Group" target="BOTSLAB">
+      <data key="d6">9.0</data>
+      <data key="d7">BOTSLAB operates as a brand within the 360 Group, leveraging its resources and expertise in technology development.</data>
+      <data key="d8">organizational structure,subsidiary relationship</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB" target="Trí Tuệ Nhân Tạo">
+      <data key="d6">9.0</data>
+      <data key="d7">BOTSLAB incorporates Trí Tuệ Nhân Tạo (AI) in its products for advanced functionalities and user experience enhancement.</data>
+      <data key="d8">functionality enhancement,technological innovation</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB" target="GPS">
+      <data key="d6">8.0</data>
+      <data key="d7">BOTSLAB integrates GPS technology within its cameras to ensure accurate route tracking and enhanced safety measures.</data>
+      <data key="d8">driver support,navigation technology</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB" target="ADAS">
+      <data key="d6">9.0</data>
+      <data key="d7">The integration of ADAS features in BOTSLAB’s products showcases its commitment to advancing driver assistance and road safety.</data>
+      <data key="d8">driver assistance,safety technology</data>
+      <data key="d9">chunk-91b68451b44fd8602c0fdbaf3015c288</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB" target="Transportation Safety">
+      <data key="d6">9.0</data>
+      <data key="d7">BOTSLAB's mission directly focuses on improving transportation safety and convenience, indicating a strong alignment with this category.</data>
+      <data key="d8">mission alignment,safety focus</data>
+      <data key="d9">chunk-e97321ed3cbd7b43cb8e07dc8d032f42</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB" target="an toàn">
+      <data key="d6">9.0</data>
+      <data key="d7">BOTSLAB's mission revolves around ensuring the safety of users in transportation, highlighting its focus on creating safer products.</data>
+      <data key="d8">product mission,safety focus</data>
+      <data key="d9">chunk-e97321ed3cbd7b43cb8e07dc8d032f42</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB" target="tiện nghi">
+      <data key="d6">9.0</data>
+      <data key="d7">BOTSLAB aims to provide convenience through its innovative solutions, aligning with the concept of tiện nghi in transportation.</data>
+      <data key="d8">innovation,user experience</data>
+      <data key="d9">chunk-e97321ed3cbd7b43cb8e07dc8d032f42</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB" target="chuyến đi">
+      <data key="d6">8.0</data>
+      <data key="d7">BOTSLAB's innovations are geared toward enhancing the experience of every trip, indicating a direct connection to the concept of chuyến đi.</data>
+      <data key="d8">journey enhancement,transportation</data>
+      <data key="d9">chunk-e97321ed3cbd7b43cb8e07dc8d032f42</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB" target="thiết bị">
+      <data key="d6">9.0</data>
+      <data key="d7">BOTSLAB develops advanced thiết bị that serve to improve safety and convenience in transportation contexts.</data>
+      <data key="d8">safety enhancement,technology development</data>
+      <data key="d9">chunk-e97321ed3cbd7b43cb8e07dc8d032f42</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596533</data>
+    </edge>
+    <edge source="BOTSLAB" target="Vietnam">
+      <data key="d6">9.0</data>
+      <data key="d7">BOTSLAB operates in Vietnam, distributing its camera products and implementing warranty policies there.</data>
+      <data key="d8">distribution,market presence</data>
+      <data key="d9">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="BOTSLAB" target="Camera Products">
+      <data key="d6">8.0</data>
+      <data key="d7">BOTSLAB's policy applies specifically to its camera products, detailing warranty and return conditions.</data>
+      <data key="d8">product scope,warranty policy</data>
+      <data key="d9">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="BOTSLAB" target="Customer Support">
+      <data key="d6">8.0</data>
+      <data key="d7">Customer support provides assistance regarding warranty and return policies for BOTSLAB products.</data>
+      <data key="d8">customer service,support</data>
+      <data key="d9">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="BOTSLAB" target="Customer">
+      <data key="d6">8.0</data>
+      <data key="d7">Customers can contact BOTSLAB for warranty or return services regarding their products.</data>
+      <data key="d8">consumer service,support</data>
+      <data key="d9">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="BOTSLAB" target="Authorized Dealers">
+      <data key="d6">9.0</data>
+      <data key="d7">BOTSLAB collaborates with Authorized Dealers to provide necessary warranty and return services nationwide.</data>
+      <data key="d8">partnership,support network</data>
+      <data key="d9">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="BOTSLAB" target="Technical Staff">
+      <data key="d6">8.0</data>
+      <data key="d7">Technical staff at BOTSLAB are involved in the process of inspecting products for warranty claims.</data>
+      <data key="d8">quality assurance,service role</data>
+      <data key="d9">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="BOTSLAB" target="Customer Support Hotline">
+      <data key="d6">7.0</data>
+      <data key="d7">The Customer Support Hotline is a service provided by BOTSLAB to assist customers with their warranty needs.</data>
+      <data key="d8">assistance,customer support</data>
+      <data key="d9">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="BOTSLAB" target="www.botslabvietnam.com.vn">
+      <data key="d6">9.0</data>
+      <data key="d7">The official website serves as a platform for BOTSLAB to inform customers about its services and facilitate support.</data>
+      <data key="d8">customer interaction,information resource</data>
+      <data key="d9">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="BOTSLAB" target="Khách Hàng">
+      <data key="d6">8.0</data>
+      <data key="d7">Khách hàng can contact BOTSLAB for warranty or return services regarding their products, initiating the warranty process.</data>
+      <data key="d8">consumer service,support</data>
+      <data key="d9">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="BOTSLAB" target="Đại Lý Ủy Quyền">
+      <data key="d6">9.0</data>
+      <data key="d7">BOTSLAB collaborates with Đại lý ủy quyền to facilitate warranty and return services to customers nationwide.</data>
+      <data key="d8">partnership,support network</data>
+      <data key="d9">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="BOTSLAB" target="Nhân Viên Kỹ Thuật">
+      <data key="d6">8.0</data>
+      <data key="d7">Nhân viên kỹ thuật at BOTSLAB are involved in verifying product conditions for warranty claims and assisting customers.</data>
+      <data key="d8">quality assurance,service role</data>
+      <data key="d9">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="BOTSLAB" target="Hotline Hỗ Trợ">
+      <data key="d6">7.0</data>
+      <data key="d7">Hotline hỗ trợ serves as a customer service avenue provided by BOTSLAB for warranty assistance and inquiries.</data>
+      <data key="d8">assistance,customer support</data>
+      <data key="d9">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="BOTSLAB" target="Camera Hành Trình BOTSLAB HK30 PRO">
+      <data key="d6">18.0</data>
+      <data key="d7">The Camera Hành Trình BOTSLAB HK30 PRO is manufactured and developed by the organization BOTSLAB, showcasing their innovative surveillance technology.&lt;SEP&gt;The organization BOTSLAB is responsible for the development and marketing of the Camera Hành Trình BOTSLAB HK30 PRO, showcasing their technological prowess.</data>
+      <data key="d8">brand leadership,product development,technology innovation</data>
+      <data key="d9">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="BOTSLAB" target="HK30 PRO">
+      <data key="d6">8.0</data>
+      <data key="d7">BOTSLAB develops the HK30 PRO camera, which features loop recording to enhance its functionality for users.</data>
+      <data key="d8">product development,technology innovation</data>
+      <data key="d9">chunk-dc66c6d81c21fe66521ead93c6d1b542</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="BOTSLAB" target="Camera Hành Trình G980H PRO">
+      <data key="d6">9.0</data>
+      <data key="d7">The Camera Hành Trình G980H PRO is manufactured by BOTSLAB, linking the product directly to the organization responsible for its development.</data>
+      <data key="d8">product-manufacturer relationship</data>
+      <data key="d9">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="BOTSLAB" target="Camera">
+      <data key="d6">7.0</data>
+      <data key="d7">BOTSLAB offers an application for video management and real-time viewing of camera footage.</data>
+      <data key="d8">software integration,video management</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="GPS" target="BOTSLAB G300H PRO">
+      <data key="d6">9.0</data>
+      <data key="d7">The BOTSLAB G300H PRO integrates GPS technology for tracking driving routes and speed while recording.</data>
+      <data key="d8">location tracking,technology integration</data>
+      <data key="d9">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="GPS" target="Google Maps">
+      <data key="d6">9.0</data>
+      <data key="d7">GPS được tích hợp với Google Maps để cung cấp dịch vụ định vị chính xác.</data>
+      <data key="d8">điều hướng,định vị</data>
+      <data key="d9">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="GPS" target="Camera">
+      <data key="d6">8.0</data>
+      <data key="d7">The camera system integrates GPS technology to monitor vehicle speed and location in real-time.</data>
+      <data key="d8">navigation,tracking</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="ADAS" target="Camera Hành Trình G980H PRO">
+      <data key="d6">8.0</data>
+      <data key="d7">The integration of ADAS in Camera Hành Trình G980H PRO enhances driver safety by providing intuitive warnings and alerts during driving.</data>
+      <data key="d8">driver assistance,safety technology</data>
+      <data key="d9">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="ADAS" target="Camera">
+      <data key="d6">8.0</data>
+      <data key="d7">ADAS uses the camera's capabilities to provide safety features such as collision warnings and lane departure alerts.</data>
+      <data key="d8">safety technology,vehicle assistance</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="ADAS" target="Cảnh báo nguy cơ va chạm với người đi bộ">
+      <data key="d6">9.0</data>
+      <data key="d7">The Cảnh báo nguy cơ va chạm with pedestrians is a key component of the ADAS system that promotes safe driving.</data>
+      <data key="d8">safety alert,technology</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="ADAS" target="Cảnh báo va chạm với xe phía trước">
+      <data key="d6">9.0</data>
+      <data key="d7">The Cảnh báo va chạm with vehicles in front is integrated into the ADAS to improve safety for drivers.</data>
+      <data key="d8">safety alert,technology</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="ADAS" target="Cảnh báo lệch làn đường">
+      <data key="d6">8.0</data>
+      <data key="d7">The Cảnh báo lệch làn đường feature is part of ADAS that assists in maintaining safe lane discipline.</data>
+      <data key="d8">safety alert,technology</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Camera Products" target="Warranty Policy">
+      <data key="d6">8.0</data>
+      <data key="d7">The warranty policy defines the terms under which camera products provided by BOTSLAB can be claimed under warranty.</data>
+      <data key="d8">product eligibility,warranty terms</data>
+      <data key="d9">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="Camera Products" target="Return Conditions">
+      <data key="d6">9.0</data>
+      <data key="d7">Return conditions specify the requirements for returning camera products sold by BOTSLAB.</data>
+      <data key="d8">product management,return policy</data>
+      <data key="d9">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="Camera Products" target="Non-Warranty Conditions">
+      <data key="d6">7.0</data>
+      <data key="d7">Non-warranty conditions explain the circumstances under which camera products are not supported by BOTSLAB's warranty.</data>
+      <data key="d8">customer awareness,exclusions</data>
+      <data key="d9">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="Return Conditions" target="Faulty Products">
+      <data key="d6">10.0</data>
+      <data key="d7">Faulty products can be returned based on the return conditions outlined in the warranty policy.</data>
+      <data key="d8">product liability,returns</data>
+      <data key="d9">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="Customer Support" target="Distributor or Repair Center">
+      <data key="d6">9.0</data>
+      <data key="d7">Customers are directed to the distributor or repair center for warranty claims or product exchanges, requiring support services.</data>
+      <data key="d8">customer interaction,service process</data>
+      <data key="d9">chunk-9b3c7228960e4b2dcfbb5cee84f1c02b</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="Khách Hàng" target="Nhân Viên Kỹ Thuật">
+      <data key="d6">8.0</data>
+      <data key="d7">Khách hàng interacts with Nhân viên kỹ thuật for technical support regarding warranty claims and returns.</data>
+      <data key="d8">client interaction,technical support</data>
+      <data key="d9">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="Khách Hàng" target="Quy Trình Bảo Hành &amp; Đổi Trả">
+      <data key="d6">10.0</data>
+      <data key="d7">Khách hàng follows the Quy Trình Bảo Hành &amp; Đổi Trả to understand the steps needed for warranty claims and returns.</data>
+      <data key="d8">customer rights,procedural guidance</data>
+      <data key="d9">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="Quy Trình Bảo Hành &amp; Đổi Trả" target="Thời Gian Xử Lý">
+      <data key="d6">7.0</data>
+      <data key="d7">Thời gian xử lý is relevant to Quy Trình Bảo Hành &amp; Đổi Trả as it outlines expected timelines for customer service requests.</data>
+      <data key="d8">processing time,service efficiency</data>
+      <data key="d9">chunk-08cfe923087c38fb9012e2d072e403b5</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596576</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB HK30 PRO" target="Smart Surveillance Solution">
+      <data key="d6">10.0</data>
+      <data key="d7">Camera Hành Trình BOTSLAB HK30 PRO is a specific example of a Smart Surveillance Solution providing high-quality monitoring capabilities.</data>
+      <data key="d8">security enhancement,technology category</data>
+      <data key="d9">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="Camera Hành Trình BOTSLAB HK30 PRO" target="HK30">
+      <data key="d6">8.0</data>
+      <data key="d7">Camera Hành Trình BOTSLAB HK30 PRO is part of the HK30 series, indicating its place within a broader range of products from BOTSLAB.</data>
+      <data key="d8">product range,series classification</data>
+      <data key="d9">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="Camera Hành Trình hk30 pro" target="Camera Hành Trình hk30">
+      <data key="d6">7.0</data>
+      <data key="d7">Both terms refer to versions of BOTSLAB's camera technology, indicating model differences within the same product line.</data>
+      <data key="d8">model differentiation,product variants</data>
+      <data key="d9">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="Camera Hành Trình hk30" target="HK30">
+      <data key="d6">8.0</data>
+      <data key="d7">HK30 serves as a general reference point for various versions of Camera Hành Trình, including HK30 and other models, indicating the product range.</data>
+      <data key="d8">product lineage,series identification</data>
+      <data key="d9">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="HK30 PRO" target="Smart Surveillance Solution">
+      <data key="d6">9.0</data>
+      <data key="d7">HK30 PRO exemplifies advanced features within the Smart Surveillance Solution category, reflecting technology evolution in monitoring devices.</data>
+      <data key="d8">category highlight,innovative technology</data>
+      <data key="d9">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="HK30 PRO" target="Loop Recording">
+      <data key="d6">9.0</data>
+      <data key="d7">The HK30 PRO camera features Loop Recording, a key technology that enhances its video recording capabilities.</data>
+      <data key="d8">camera features,technology definition</data>
+      <data key="d9">chunk-dc66c6d81c21fe66521ead93c6d1b542</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="HK30 PRO" target="Camera Hành Trình">
+      <data key="d6">8.0</data>
+      <data key="d7">HK30 PRO is categorized as a Camera Hành Trình designed for action-oriented recording, particularly in mobile settings.</data>
+      <data key="d8">action recording,product category</data>
+      <data key="d9">chunk-dc66c6d81c21fe66521ead93c6d1b542</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="HK30 PRO" target="Thẻ Nhớ">
+      <data key="d6">19.0</data>
+      <data key="d7">The HK30 PRO relies on Thẻ Nhớ for storage, which is essential for saving its continuous recordings.&lt;SEP&gt;Thẻ Nhớ are used in the HK30 PRO camera to facilitate its recording functions and manage its video storage needs.</data>
+      <data key="d8">camera integration,operational necessity,storage dependency,storage solution</data>
+      <data key="d9">chunk-dc66c6d81c21fe66521ead93c6d1b542</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="hk30 pro" target="hk30">
+      <data key="d6">8.0</data>
+      <data key="d7">hk30 pro is a specific version within the broader hk30 series, demonstrating the evolution of this camera technology over time.</data>
+      <data key="d8">model specificity,product evolution</data>
+      <data key="d9">chunk-ed0c35830e7dc000da745fb383ff0307</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="Loop Recording" target="Camera Hành Trình">
+      <data key="d6">9.0</data>
+      <data key="d7">Loop Recording is a critical feature for Camera Hành Trình, enabling the continuous capture of video footage during dynamic activities.</data>
+      <data key="d8">feature significance,operational capability</data>
+      <data key="d9">chunk-dc66c6d81c21fe66521ead93c6d1b542</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="Loop Recording" target="Thẻ Nhớ">
+      <data key="d6">8.0</data>
+      <data key="d7">Loop Recording requires reliable Thẻ Nhớ for uninterrupted video storage and management during recording sessions.</data>
+      <data key="d8">functionality support,storage necessity</data>
+      <data key="d9">chunk-dc66c6d81c21fe66521ead93c6d1b542</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596635</data>
+    </edge>
+    <edge source="Camera Hành Trình" target="BOTSLAB G300H PRO">
+      <data key="d6">9.0</data>
+      <data key="d7">BOTSLAB G300H PRO is a specific model of a dash camera, falling under the category of Camera Hành Trình.</data>
+      <data key="d8">product classification,technology</data>
+      <data key="d9">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="G-Sensor" target="BOTSLAB G300H PRO">
+      <data key="d6">10.0</data>
+      <data key="d7">The BOTSLAB G300H PRO utilizes G-Sensor technology to automatically lock important video footage in case of a detected impact.</data>
+      <data key="d8">safety feature,technology</data>
+      <data key="d9">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="BOTSLAB G300H PRO" target="Wi-Fi 2.4GHz">
+      <data key="d6">8.0</data>
+      <data key="d7">The BOTSLAB G300H PRO camera features Wi-Fi 2.4GHz for wireless connectivity, allowing remote access to video and settings.</data>
+      <data key="d8">connectivity,wireless technology</data>
+      <data key="d9">chunk-a62029458e7dc373dec1c4f086dacc01</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596826</data>
+    </edge>
+    <edge source="Hệ thống ADAS" target="Camera trước">
+      <data key="d6">8.0</data>
+      <data key="d7">Hệ thống ADAS sử dụng camera trước để phát hiện và cảnh báo nguy hiểm phía trước xe.</data>
+      <data key="d8">an toàn,công nghệ hỗ trợ lái xe</data>
+      <data key="d9">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Hệ thống ADAS" target="Camera sau">
+      <data key="d6">7.0</data>
+      <data key="d7">Camera sau là một phần của hệ thống ADAS giúp giám sát tình huống phía sau khi lùi xe.</data>
+      <data key="d8">công nghệ hỗ trợ lái xe,giám sát</data>
+      <data key="d9">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Hệ thống ADAS" target="Cảnh báo nguy cơ va chạm">
+      <data key="d6">9.0</data>
+      <data key="d7">Hệ thống ADAS bao gồm các tính năng như cảnh báo nguy cơ va chạm giúp bảo vệ người lái.</data>
+      <data key="d8">an toàn,cảnh bảo</data>
+      <data key="d9">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Hệ thống ADAS" target="Cập nhật OTA">
+      <data key="d6">8.0</data>
+      <data key="d7">Cập nhật OTA giúp duy trì và nâng cấp các tính năng của hệ thống ADAS để hoạt động hiệu quả hơn.</data>
+      <data key="d8">hiệu suất,nâng cấp công nghệ</data>
+      <data key="d9">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Camera trước" target="Góc quay rộng">
+      <data key="d6">7.0</data>
+      <data key="d7">Camera trước với góc quay rộng 140° cho phép quan sát rõ ràng hơn về phía trước, phục vụ cho hệ thống an toàn.</data>
+      <data key="d8">an toàn,quan sát</data>
+      <data key="d9">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Camera sau" target="Góc quay rộng">
+      <data key="d6">7.0</data>
+      <data key="d7">Camera sau với góc quay 120° hỗ trợ giám sát phía sau xe và hoạt động trong hệ thống ADAS.</data>
+      <data key="d8">an toàn,giám sát</data>
+      <data key="d9">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Wifi" target="Bluetooth">
+      <data key="d6">8.0</data>
+      <data key="d7">Wifi và Bluetooth đều là công nghệ kết nối không dây, hỗ trợ truyền tải dữ liệu nhanh chóng và hiệu quả.</data>
+      <data key="d8">kết nối không dây,truyền tải dữ liệu</data>
+      <data key="d9">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Bluetooth" target="Camera Hành Trình G980H PRO">
+      <data key="d6">6.0</data>
+      <data key="d7">The Camera Hành Trình G980H PRO features Bluetooth connectivity, allowing remote control and easy data transfer.</data>
+      <data key="d8">functionality,wireless technology</data>
+      <data key="d9">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Cập nhật OTA" target="Giám sát xe">
+      <data key="d6">6.0</data>
+      <data key="d7">Cập nhật OTA đảm bảo rằng hệ thống giám sát xe luôn sẵn sàng và hoạt động khi cần thiết.</data>
+      <data key="d8">duy trì cho xe,hiệu suất</data>
+      <data key="d9">chunk-cb5c1468a96b254256bf596badc87fc7</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596888</data>
+    </edge>
+    <edge source="Cập nhật OTA" target="Camera">
+      <data key="d6">9.0</data>
+      <data key="d7">Cập nhật OTA ensures that the camera's software remains current, enhancing its functionality and performance.</data>
+      <data key="d8">maintenance,software updates</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Camera Hành Trình G980H PRO" target="4K Resolution">
+      <data key="d6">8.0</data>
+      <data key="d7">The Camera Hành Trình G980H PRO features 4K Resolution, enhancing image clarity and detail during recording.</data>
+      <data key="d8">image quality,technical feature</data>
+      <data key="d9">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Camera Hành Trình G980H PRO" target="2K Resolution">
+      <data key="d6">7.0</data>
+      <data key="d7">The rear camera of the Camera Hành Trình G980H PRO captures footage in 2K Resolution, providing clear images and videos.</data>
+      <data key="d8">image quality,technical feature</data>
+      <data key="d9">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Camera Hành Trình G980H PRO" target="Sony Starvis IMX415">
+      <data key="d6">9.0</data>
+      <data key="d7">The Camera Hành Trình G980H PRO utilizes the Sony Starvis IMX415 sensor for improved image quality, especially in low-light conditions.</data>
+      <data key="d8">image quality,sensor technology</data>
+      <data key="d9">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Camera Hành Trình G980H PRO" target="MicroSD Card">
+      <data key="d6">7.0</data>
+      <data key="d7">The Camera Hành Trình G980H PRO supports MicroSD Cards up to 256GB for enhanced storage capacity.</data>
+      <data key="d8">expandability,storage capability</data>
+      <data key="d9">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Camera Hành Trình G980H PRO" target="WiFi">
+      <data key="d6">7.0</data>
+      <data key="d7">The presence of WiFi in the Camera Hành Trình G980H PRO enables the user to connect to networks for data sharing and remote access.</data>
+      <data key="d8">connectivity,wireless technology</data>
+      <data key="d9">chunk-201350bc86ea6c05d23f5526093df1df</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Sony Starvis IMX415" target="Camera">
+      <data key="d6">9.0</data>
+      <data key="d7">The camera utilizes the Sony Starvis IMX415 sensor to enhance its image quality across different lighting conditions.</data>
+      <data key="d8">image quality,technology integration</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Camera" target="Camera trước 4K">
+      <data key="d6">9.0</data>
+      <data key="d7">The Camera trước 4K is a specific type of camera that emphasizes high-resolution image capturing, being part of the overall camera attributes.</data>
+      <data key="d8">image quality,technology</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Camera" target="Camera sau 2K">
+      <data key="d6">8.0</data>
+      <data key="d7">The Camera sau 2K contributes to the camera's functions by offering high-quality rear recordings.</data>
+      <data key="d8">image quality,technology</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Camera" target="Cảm biến G-Sensor">
+      <data key="d6">9.0</data>
+      <data key="d7">The camera utilizes the Cảm biến G-Sensor to automatically secure video footage if a collision is detected.</data>
+      <data key="d8">safety features,technology integration</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Camera" target="Giám sát đỗ xe 24/7">
+      <data key="d6">8.0</data>
+      <data key="d7">The Giám sát đỗ xe 24/7 feature uses the camera system to monitor and protect parked vehicles.</data>
+      <data key="d8">safety monitoring,technology</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Camera" target="Wi-Fi và Bluetooth">
+      <data key="d6">7.0</data>
+      <data key="d7">Wi-Fi và Bluetooth enable the camera to connect for managing viewing and settings efficiently.</data>
+      <data key="d8">connectivity,technology</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Chất lượng hình ảnh" target="Camera trước 4K">
+      <data key="d6">10.0</data>
+      <data key="d7">Chất lượng hình ảnh is directly influenced by the performance of the Camera trước 4K in capturing sharp images.</data>
+      <data key="d8">image quality,performance</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+    <edge source="Chất lượng hình ảnh" target="Camera sau 2K">
+      <data key="d6">10.0</data>
+      <data key="d7">Chất lượng hình ảnh is impacted by the performance of the Camera sau 2K, enhancing recorded footage quality.</data>
+      <data key="d8">image quality,performance</data>
+      <data key="d9">chunk-632ef7423741f7379d12ff288e898709</data>
+      <data key="d10">unknown_source</data>
+      <data key="d11">1748596933</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,14 @@
+flask
+flask-smorest
+python-dotenv
+sqlalchemy
+Flask-SQLAlchemy
+flask-migrate
+openai
+lightrag-hku
+PyPDF2
+pyvis 
+aioboto3 
+ollama 
+tiktoken 
+nano_vectordb
