@@ -13,3 +13,4 @@ ollama
 tiktoken 
 nano_vectordb
 nest_asyncio
+flask[async]
